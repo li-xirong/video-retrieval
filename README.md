@@ -23,9 +23,9 @@ Deep Learning for Video Retrieval by Natural Language
 
 
 ## Methods
-[W2VV](https://github.com/danieljf24/w2vv)
-[W2VV++](https://github.com/li-xirong/w2vvpp)
-[Dual encoding](https://github.com/danieljf24/dual_encoding)
+* [W2VV](https://github.com/danieljf24/w2vv)
+* [W2VV++](https://github.com/li-xirong/w2vvpp)
+* [Dual encoding](https://github.com/danieljf24/dual_encoding)
 
 ## References
 ```
