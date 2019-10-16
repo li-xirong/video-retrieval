@@ -45,7 +45,7 @@ Leaderboard of TRECVID 2016, 2017, 2018 ad-hoc video search task.
 | [W2VV++](http://lixirong.net/pub/mm2019-w2vvpp.pdf)* | 0.137 | 0.168 | 0.088 |
 | [Dual encoding](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Dual_Encoding_for_Zero-Example_Video_Retrieval_CVPR_2019_paper.pdf)* | 0.159 | 0.208 | ? |
 
-\* indicates the model using provided ResNext-101 feature. 
+\* indicates using the provided ResNext-101 feature. 
 
 
 ## References
