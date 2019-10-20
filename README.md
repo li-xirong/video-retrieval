@@ -2,7 +2,7 @@
 
 Videos are everywhere. Video retrieval, i.e., finding videos that meet the information need of a specific user, is important for a wide range of applications including communication, education, entertainment, business, security etc. Among multiple ways of expressing the information need, a natural-language text is the most intuitive to start a retrieval process. For instance, to find video shots showing ``a person in front of a blackboard talking or writing in a classroom``. Such a query can be submitted easily, by typing or speech recognition, to a video retrieval system. Given a video as a sequence of frames and a query as a sequence of words, a fundamental problem in video retrieval by natural language is ***how to properly associate visual and linguistic information presented in sequential order***.
 
-This page shows the state-of-the-art concerning open-source methods and datasets, in particular, using the [TRECVID](https://trecvid.nist.gov/) Ad-hoc Video Search (AVS) benchmark evaluation as the test bed. 
+This page maintains an (incomplete) list of state-of-the-art open-source methods and datasets, with the [TRECVID](https://trecvid.nist.gov/) Ad-hoc Video Search (AVS) benchmark evaluation as the test bed. 
 
 ## Open-source methods
 * [W2VV, T-MM'18](https://github.com/danieljf24/w2vv)
