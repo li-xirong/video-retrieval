@@ -30,6 +30,45 @@ Deep Learning for Video Retrieval by Natural Language
 
 ## Leaderboard
 
+### TRECVID 2016 AVS
+
+| Method | infAP |
+|:-- | ---:|
+| Dual Encoding (Dong et al. CVPR'19) | 0.159 |
+| W2VV++ (Li et al. MM'19) | 0.151 |
+| VSE++ (Faghri et al. BMVC'18, *produced by Li et al. MM'19*)  | 0.123 |  
+| VideoStory (Habibian et al. PAMI'16) | 0.087 |
+| Markatopoulou et al. ICMR'17 | 0.064 |
+| Le et al. TRECVID'16 | 0.054 |
+| Markatopoulou et al. TRECVID'16 | 0.051 |
+| W2VV (Dong et al. T-MM'18, *produced by Li et al. MM'19*) | 0.050 |
+
+
+### TRECVID 2017 AVS
+
+| Method | infAP |
+|:-- | ---:|
+| W2VV++ (Li et al. MM'19) | 0.213 | 
+| Dual Encoding (Dong et al. CVPR'19)  | 0.208 |
+| Snoek et al. TRECVID'17 | 0.206 |
+| Ueki et al. TRECVID'17  | 0.159 |
+| VSE++ (Faghri et al. BMVC'18, *produced by Li et al. MM'19*)  | 0.154 |
+| VideoStory (Habibian et al. PAMI'16)  | 0.150 |
+| Nguyen et al. TRECVID'17 | 0.120 | 
+| W2VV (Dong et al. T-MM'18, *produced by Li et al. MM'19*) | 0.081 |
+
+### TRECVID 2018 AVS
+
+| Method | infAP |
+|:-- | ---:|
+| Dual Encoding (Dong et al. CVPR'19)  | 0.126 |
+| Li et al. TRECVID'18 | 0.121 |
+| W2VV++ (Li et al. MM'19) | 0.106 | 
+| Huang et al. TRECVID'18 | 0.087 |
+| Bastan et al. TRECVID'18 | 0.082 |
+| VSE++ (Faghri et al. BMVC'18, *produced by Li et al. MM'19*)  | 0.074 |
+
+
 Leaderboard of TRECVID 2016, 2017, 2018 ad-hoc video search task.
 
 |  | 2016 | 2017 | 2018 |
